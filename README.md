@@ -5,3 +5,4 @@ For learning open source and contributing to open source projects.
 ## How to contribute
 
 1. Fork this repository.
+2. Clone the forked repository to your local machine.
