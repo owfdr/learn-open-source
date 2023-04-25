@@ -1,3 +1,3 @@
-# Contributing
+# Contributing to Learn Open Source
 
-Guidelines for contribution
+Guideline for contribution
