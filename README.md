@@ -4,4 +4,4 @@ For learning open source and contributing to open source projects.
 
 ## Note
 
-This project is for testing only.
+This project is for tests only.
