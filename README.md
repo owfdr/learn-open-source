@@ -18,4 +18,4 @@ Open source is a way of developing software that allows the source code to be pu
 ## How to Contribute
 
 1. Fork the repository.
-2. Clone the repository to your local machine.
+1. Clone the repository to your local machine.
