@@ -4,7 +4,7 @@ For learning open source and contributing to open source projects.
 
 ## Note
 
-This is a work in progress. Please feel free to contribute.
+This is for testing only.
 
 ## Table of Contents
 
